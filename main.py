@@ -3,7 +3,7 @@ import googlemaps
 from tqdm import tqdm
 
 # Set your Google Cloud API key
-GOOGLE_MAPS_API_KEY = 'AIzaSyApNPpUMRVCRLw8PMmquKToaBDjzF1ohcY'
+GOOGLE_MAPS_API_KEY = 'API_KEY'
 
 # Define the number of subsets
 num_subsets = 100
